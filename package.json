@@ -1,0 +1,20 @@
+{
+  "name": "VITEDEMO2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "less": "^4.1.1",
+    "sass": "^1.32.8",
+    "stylus": "^0.54.8",
+    "vite": "^2.1.0"
+  }
+}
